@@ -1,5 +1,14 @@
 
-
-.right-side{
+body{
     background-color: #FF9800;
+   
+}
+#left{
+    margin: 0;
+    padding: 0;
+}
+
+
+#img1{
+    height: 100vh;
 }
